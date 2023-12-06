@@ -1,0 +1,4 @@
+  327  head dialogue.txt 
+  328  tail dialogue.txt 
+  329  head -c 100 dialogue.txt 
+  330  history 4 > rendu.txt
